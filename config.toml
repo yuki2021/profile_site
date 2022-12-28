@@ -146,6 +146,12 @@ icon = "fa fa-2x fa-pencil"
 weight = 7
 url = "https://kakuyomu.jp/users/yuki_2021"
 
+[[params.social]]
+name = "はてなブックマーク"
+icon = "fa fa-2x fa-bookmark"
+weight = 8
+url = "https://b.hatena.ne.jp/yuki_2021/"
+
 [[languages.ja.menu.main]]
 name = "プロフィール"
 weight = 1
