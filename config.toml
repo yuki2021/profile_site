@@ -3,7 +3,7 @@ publishDir = "docs"
 title = "ゆきにー＠雑文書き"
 theme = "hugo-coder"
 languageCode = "ja"
-defaultContentLanguage = "en"
+defaultcontentlanguage = "ja"
 paginate = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
@@ -16,7 +16,7 @@ enableEmoji = true
 author = "ゆきにー＠雑文書き"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "ゆきにー＠雑文書きのプロフィール"
-keywords = "blog,developer,personal"
+keywords = "ゆきにー,ゆきにー＠雑文書き,はてなブログ,プログラマ,ITエンジニア"
 info = ["もの書くプログラマ","イラストを描いたり小説を描いたりする。"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
@@ -140,17 +140,17 @@ icon = "fa fa-2x fa-pencil"
 weight = 5
 url = "https://kakuyomu.jp/users/yuki_2021"
 
-[[languages.en.menu.main]]
-name = "About"
+[[languages.ja.menu.main]]
+name = "プロフィール"
 weight = 1
 url = "about/"
 
-[[languages.en.menu.main]]
+[[languages.ja.menu.main]]
 name = "Blog"
 weight = 2
 url = "https://www.ituki-yu2.net/"
 
-[[languages.en.menu.main]]
-name = "Contact me"
+[[languages.ja.menu.main]]
+name = "お問い合わせ"
 weight = 3
 url = "https://www.ituki-yu2.net/entry/2016/11/11/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%81%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0"
