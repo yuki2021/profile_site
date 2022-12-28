@@ -1,25 +1,35 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+title = "ゆきにー＠雑文書きのプロフィール"
+description = "物書き系のプログラマであるゆきにー＠雑文書きのプロフィールです。"
+date = "2022-12-28"
+aliases = ["プロフィール", "blog", "お問い合わせ"]
+author = "ゆきにー＠雑文書き"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+このページを見る人は初めましての人が多いのであろうか？　基本的にはブロガー属性のプログラマであるゆきにーのプロフィールページです。
 
-Hugo makes use of a variety of open source projects including:
+やってることは色々と多彩であり、ネット上での主な活動としてはブロガーという属性が強いかと思われる。しかし、一般的に「ブロガー」と呼ばれる言葉から想定されるお金稼ぎ系の行動があまり好きではなく、ひたすら長文を綴りまくるテキストサイト文化の後継者のようなことを続けている。なので、僕の肩書きとしては「ブロガー」ではなく、「雑文書き」なのであります。
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+ブログに関しては毎日更新を続けており、今のところ五年以上毎日ブログの更新をしています。ちなみに僕のブログは下記になります。
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+[超メモ帳(web式)＠復活](https://www.ituki-yu2.net/)
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+ブログのジャンルとしてはなんでもありのごった煮ブログであり、技術ネタから普段の日記、メンタルヘルス系の情報やら時事問題を斬ったりなどなんでもやってます。
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+僕はプログラマであるけど、技術的なレベルはそれほど高くないかな？という気もする。昔はWeb系でサイト構築をやってたけど、その時はフロントエンドもバックエンドも両方やっていた。基本的にメインで扱う言語はPHPなどを使っている。でも、最近はアプリ開発に主軸を移してきており、Flutterの開発などを行なってたりします。Githubはこちらになるけど、基本的には自分の趣味で書いてるスクリプトを片っ端から放り込んであるだけです。
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+[Github yuki2021](https://github.com/yuki2021)
+
+僕はそのほかにも絵を描いたり、小説を書いたりする趣味がある。こっちの方も色々と制作しているので、興味があるのならご覧になってください。僕がやったりするのは基本的には東方Projectの二次創作であるけど、一次創作の小説も色々と書いてます。根神玲と守屋真輝といううちの子がいますけど、ブログで登場したり小説で活躍したりしてます。
+
+[椎野樹 - pixiv](https://www.pixiv.net/users/150350)
+
+[椎野樹（@yuki_2021） - カクヨム](https://kakuyomu.jp/users/yuki_2021)
+
+ネットでの行動パターンは、いろんな技術情報や興味のある時事ネタなどを探してtwitterやマストドン、そしてはてなブックマークなどをフラフラしている感じです。僕は政治宗教ジェンダー野球などのセンシティブな話題はしないようにしているし、そういったセンシティブな話題に巻き込まれることも嫌ってます。twitterやミニブログのようなSNSの場ではなるべく日常生活の中で感じたあれこれを丁寧に感じて表現したいと思っていて、あまり感情的な話題には触れないようにしています。
+
+[twitter](https://twitter.com/yuki_20211/)
+
+[マストドン](https://fedibird.com/@yuki_2021)
+
+プロフィールは何か変更することがあればまた書き換えます。こんな僕ですがよろしくお願いします。
