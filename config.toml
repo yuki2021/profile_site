@@ -157,6 +157,12 @@ icon = "fa-2x blogicon-bookmark"
 weight = 8
 url = "https://b.hatena.ne.jp/yuki_2021/"
 
+[[params.social]]
+name = "Scrapbox"
+icon = "fa-2x blogicon-myblog"
+weight = 9
+url = "https://scrapbox.io/yuki-2021/"
+
 [[languages.ja.menu.main]]
 name = "プロフィール"
 weight = 1
