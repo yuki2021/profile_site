@@ -135,13 +135,13 @@ url = "https://www.instagram.com/yukinizawenshuki/"
 
 [[params.social]]
 name = "Blog"
-icon = "fa fa-2x fa-rss"
+icon = "blogicon-hatenablog fa-2x"
 weight = 5
 url = "https://www.ituki-yu2.net/"
 
 [[params.social]]
 name = "Pixiv"
-icon = "fa fa-2x fa-paint-brush"
+icon = "fa-2x blogicon-pixiv"
 weight = 6
 url = "https://www.pixiv.net/users/150350"
 
@@ -153,7 +153,7 @@ url = "https://kakuyomu.jp/users/yuki_2021"
 
 [[params.social]]
 name = "はてなブックマーク"
-icon = "fa fa-2x fa-bookmark"
+icon = "fa-2x blogicon-bookmark"
 weight = 8
 url = "https://b.hatena.ne.jp/yuki_2021/"
 
