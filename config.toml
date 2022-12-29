@@ -17,7 +17,7 @@ author = "ゆきにー＠雑文書き"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "ゆきにー＠雑文書きのプロフィール"
 keywords = "ゆきにー,ゆきにー＠雑文書き,はてなブログ,プログラマ,ITエンジニア"
-info = ["もの書くプログラマ","イラストを描いたり小説を描いたりする。"]
+info = ["もの書くプログラマ","イラストを描いたり小説を書いたりする。"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
