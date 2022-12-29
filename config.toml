@@ -1,4 +1,4 @@
-baseURL = "https://www.yuki2021.net/profile_site/"
+baseURL = "https://www.yuki2021.net/"
 publishDir = "docs"
 title = "ゆきにー＠雑文書き"
 theme = "hugo-coder"
