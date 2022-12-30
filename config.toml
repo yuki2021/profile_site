@@ -169,11 +169,16 @@ weight = 1
 url = "about/"
 
 [[languages.ja.menu.main]]
-name = "Blog"
+name = "サイトマップ"
 weight = 2
+url = "site_map/"
+
+[[languages.ja.menu.main]]
+name = "Blog"
+weight = 3
 url = "https://www.ituki-yu2.net/"
 
 [[languages.ja.menu.main]]
 name = "お問い合わせ"
-weight = 3
+weight = 4
 url = "https://www.ituki-yu2.net/entry/2016/11/11/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%81%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0"
