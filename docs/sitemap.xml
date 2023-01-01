@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.yuki2021.net/illustration/</loc>
+    <loc>https://www.yuki2021.net/illustration_index/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.yuki2021.net/site_map/</loc>
@@ -18,10 +18,18 @@
   </url><url>
     <loc>https://www.yuki2021.net/categories/</loc>
   </url><url>
+    <loc>https://www.yuki2021.net/illustration/</loc>
+  </url><url>
     <loc>https://www.yuki2021.net/series/</loc>
   </url><url>
     <loc>https://www.yuki2021.net/tags/</loc>
   </url><url>
+    <loc>https://www.yuki2021.net/illustration/christmas2022/</loc>
+  </url><url>
     <loc>https://www.yuki2021.net/</loc>
+  </url><url>
+    <loc>https://www.yuki2021.net/illustration/isurugi_gin/</loc>
+  </url><url>
+    <loc>https://www.yuki2021.net/illustration/new_year_2023/</loc>
   </url>
 </urlset>
