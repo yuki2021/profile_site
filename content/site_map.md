@@ -9,7 +9,7 @@ author = "ゆきにー＠雑文書き"
 
 # 作品集
 
-## [イラスト](../illustration/)
+## [イラスト](../illustration_index/)
 
 ## [小説](../novel/)
 
