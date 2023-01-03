@@ -19,3 +19,4 @@ author = "ゆきにー＠雑文書き"
 # 2021年
 
 + [うちの子の夏](../illustration/summer_rei_maki/)
++ [私服の玲と真輝](../illustration/plain_clothes_rei_maki/)
