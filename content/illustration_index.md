@@ -14,3 +14,4 @@ author = "ゆきにー＠雑文書き"
 + [クリスマス2022](../illustration/christmas2022/)
 + [石動夕夜とギン](../illustration/isurugi_gin/)
 + [冬の玲と真輝](../illustration/winter_rei_maki/)
++ [あけおめ2022](../illustration/new_year_2022/)
