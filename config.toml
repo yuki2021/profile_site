@@ -140,27 +140,33 @@ weight = 5
 url = "https://www.ituki-yu2.net/"
 
 [[params.social]]
+name = "Substack"
+icon = "fa fa-2x fa-envelope"
+weight = 6
+url = "https://yuki2021.substack.com/"
+
+[[params.social]]
 name = "Pixiv"
 icon = "fa-2x blogicon-pixiv"
-weight = 6
+weight = 7
 url = "https://www.pixiv.net/users/150350"
 
 [[params.social]]
 name = "カクヨム"
 icon = "fa fa-2x fa-pencil"
-weight = 7
+weight = 8
 url = "https://kakuyomu.jp/users/yuki_2021"
 
 [[params.social]]
 name = "はてなブックマーク"
 icon = "fa-2x blogicon-bookmark"
-weight = 8
+weight = 9
 url = "https://b.hatena.ne.jp/yuki_2021/"
 
 [[params.social]]
 name = "Scrapbox"
 icon = "fa-2x blogicon-myblog"
-weight = 9
+weight = 10
 url = "https://scrapbox.io/yuki-2021/"
 
 [[languages.ja.menu.main]]
